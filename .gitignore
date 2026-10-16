@@ -1,0 +1,29 @@
+# Only track the POO folder (repo root is Desktop/Chestii)
+/*
+!/.gitignore
+!/README.md
+!/POO/
+
+# Visual Studio build output and caches
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.suo
+*.pdb
+*.ilk
+*.obj
+*.idb
+*.ipch
+*.exe
+*.tlog
+*.log
+*.lastbuildstate
+*.recipe
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.vsidx
